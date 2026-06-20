@@ -5,30 +5,30 @@
   ___) | | | (_| |  __/\ V  V / (_| | | |  __/
  |____/|_|_|\__,_|\___| \_/\_/ \__,_|_|  \___|
 
- ✻ Slideware — the strategy & finance brain for Claude
+ ✻ Slideware — the strategy, finance & AI thinking layer for Claude
    42 skills · 10 domains · workflow + design guides
 ```
 
-> **Slideware turns a fuzzy executive question into a board-ready deck.**
-> A comprehensive pack of **42 standalone Claude skills** encoding the methods, frameworks, and
-> quantitative rigor used inside top-tier strategy firms (McKinsey, BCG, Bain) and corporate
-> strategy / PE / IB / AI-transformation teams — plus the guides that turn raw analysis into
-> enterprise-grade, executive-ready output.
+> **Slideware is the thinking layer for executive strategy, finance, and AI work — it gets the
+> content and the reasoning right. It is not a slide generator (yet).**
+> A comprehensive pack of **42 standalone Claude skills** plus two guides that encode the methods,
+> frameworks, and quantitative rigor of top-tier strategy firms (McKinsey, BCG, Bain) and corporate
+> strategy / PE / IB / AI-transformation teams.
 
-## What Slideware is
+## What Slideware is (and isn't)
 
-Most "AI slide" tools generate pretty templates with hollow content. Slideware inverts that: it
-gets the **thinking** right first — the structure, the math, the evidence, the "so what" — and is
-built so that the analysis can then be rendered into a polished deck.
+Most "AI slide" tools generate pretty templates with hollow content. Slideware deliberately does the
+opposite half first — the half that is hard and that actually matters:
 
-Two layers:
+- **It does:** structure the problem, run the analysis, make the math tie out, and tell you exactly
+  how to represent each finding ([DESIGN-GUIDE.md](DESIGN-GUIDE.md)) and how to assemble it into a
+  decision-grade executive narrative ([WORKFLOW.md](WORKFLOW.md)).
+- **It does not (yet):** generate, render, or export slides — there is no slide engine wired in. The
+  name signals where this is headed; **today it is the content-and-guidance brain** that feeds a deck
+  you build (or that a future rendering layer will produce).
 
-1. **The analytical brain (this pack, today).** 42 skills across diagnosis, market & competitor
-   analysis, corporate finance & valuation, M&A, AI strategy, execution, governance, and executive
-   communication. Each runs a named method end-to-end, on its own or chained into a full engagement.
-2. **The presentation engine (next).** A slide-generation capability that takes an approved
-   storyline and renders each slide as a polished visual. *(In design — see the slide-generation
-   plan; not yet wired in.)*
+A slide-rendering layer is being scoped as a future addition. Until it ships, use Slideware as the
+analytical and design-direction layer — the substance and the storyline — not a deck builder.
 
 > **Read these two guides first — they are what make output MBB-grade, not just a list of frameworks:**
 > - **[WORKFLOW.md](WORKFLOW.md)** — how to chain the skills into a full engagement and hold every output to an executive quality standard.
