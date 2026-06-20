@@ -16,12 +16,17 @@ Top-tier strategy work follows a recognizable arc. The skills map onto it:
 | Phase | Question it answers | Lead skills |
 |---|---|---|
 | **0. Frame** | What are we really solving, and how will we solve it? | `problem-structuring`, `situation-assessment`, `growth-barriers` |
-| **1. Analyze** | What is true? Where's the value? | `market-mapping`, `competitive-intel`, `customer-segmentation`, `profit-pool-analysis`, `unit-economics`, `margin-bridge`, `financial-modeling`, `valuation` |
-| **2. Choose** | What should we do? | `strategic-options`, `scenario-planning`, `pricing-strategy`, `go-to-market`, `portfolio-review`, `capital-allocation`, `commercial-due-diligence`, `synergy-valuation` |
+| **1. Analyze** | What is true? Where's the value? | `market-mapping`, `competitive-intel`, `customer-segmentation`, `profit-pool-analysis`, `unit-economics`, `margin-bridge`, `financial-modeling`, `valuation`, `sensitivity-analysis` |
+| **2. Choose** | What should we do? | `strategic-options`, `scenario-planning`, `pricing-strategy`, `pricing-analytics`, `go-to-market`, `portfolio-review`, `capital-allocation`, `commercial-due-diligence`, `synergy-valuation`, `lbo-modeling` |
 | **3. Stress-test** | What would have to be true? What breaks it? | `assumption-audit`, `war-gaming` |
 | **4. Build** | How do we deliver it? | `operating-model-design`, `cost-transformation`, `initiative-prioritizer`, `transformation-roadmap` |
 | **5. Govern** | How do we capture and protect the value? | `risk-mitigation`, `kpi-architect`, `value-realization` |
 | **6. Communicate** | How do we get a yes? | `stakeholder-alignment`, `narrative-builder`, `decision-memo` |
+| **AI lane** (parallel) | Where can AI create value, and can we deliver it? | `ai-opportunity-mapping`, `ai-use-case-prioritization`, `ai-readiness-assessment`, `ai-poc-design`, `ai-value-case`, `ai-scaling-operating-model`, `ai-governance-and-risk` |
+
+The **AI lane** runs the same frame → analyze → choose → build → govern arc inside the AI domain; it
+plugs into the main engagement wherever an AI-enabled option is on the table, and converges into the
+same `narrative-builder` → `decision-memo` at the end.
 
 **The golden rule of sequencing: never skip Phase 0.** 80% of bad strategy work is a beautiful
 answer to the wrong question. Frame first; the frame tells you which analysis skills to even open.
@@ -29,7 +34,7 @@ answer to the wrong question. Frame first; the frame tells you which analysis sk
 ### The hypothesis-driven spine
 Don't run every skill. After `problem-structuring`, you have a MECE issue tree with a hypothesis
 on each branch. **Only run the analysis skills that confirm or kill a load-bearing hypothesis.**
-A focused engagement might touch 6 skills; a comprehensive one, 15. Running all 32 by default is
+A focused engagement might touch 6 skills; a comprehensive one, 15. Running all 42 by default is
 motion without judgment.
 
 ---
@@ -45,7 +50,7 @@ Common situations and the skill chains that fit them. Adapt — these are starti
 `situation-assessment` → `problem-structuring` → `margin-bridge` → `cost-transformation` + `pricing-strategy` → `initiative-prioritizer` → `transformation-roadmap` → `value-realization` → `kpi-architect` → `decision-memo`
 
 **M&A / acquisition evaluation**
-`problem-structuring` (deal thesis) → `commercial-due-diligence` → `market-mapping` + `competitive-intel` → `financial-modeling` → `valuation` → `synergy-valuation` → `assumption-audit` → `risk-mitigation` → `decision-memo` (IC paper)
+`problem-structuring` (deal thesis) → `commercial-due-diligence` → `market-mapping` + `competitive-intel` → `financial-modeling` → `valuation` → `synergy-valuation` → `lbo-modeling` (if PE/returns lens) → `sensitivity-analysis` → `assumption-audit` → `risk-mitigation` → `decision-memo` (IC paper)
 
 **Market / segment entry**
 `market-mapping` → `customer-segmentation` → `competitive-intel` → `pricing-strategy` + `unit-economics` → `go-to-market` → `business-case-builder` → `war-gaming` → `transformation-roadmap`
@@ -58,6 +63,9 @@ Common situations and the skill chains that fit them. Adapt — these are starti
 
 **Board strategy review**
 `situation-assessment` → `scenario-planning` → `strategic-options` → `risk-mitigation` → `narrative-builder` → `stakeholder-alignment` → `decision-memo`
+
+**AI transformation**
+`ai-opportunity-mapping` → `ai-use-case-prioritization` → `ai-readiness-assessment` → `ai-poc-design` → `ai-value-case` → `ai-scaling-operating-model` → `ai-governance-and-risk` → `transformation-roadmap` → `narrative-builder` → `decision-memo`
 
 ---
 
@@ -72,6 +80,7 @@ Each skill produces an artifact that becomes a named input to the next. Honor th
 - `strategic-options` produces the **recommended option** → economics via `business-case-builder`, stress-test via `assumption-audit` / `war-gaming`.
 - `assumption-audit` / `war-gaming` produce **failure modes** → become the register in `risk-mitigation` and the triggers in `kpi-architect`.
 - `business-case-builder` / `synergy-valuation` produce **promised benefits** → tracked by `value-realization`.
+- `ai-opportunity-mapping` produces a **use-case inventory** → ranked by `ai-use-case-prioritization` into a **wave plan**, gated against `ai-readiness-assessment`; each wave's lead case is proven by `ai-poc-design`, costed by `ai-value-case`, scaled via `ai-scaling-operating-model`, and bounded by `ai-governance-and-risk`.
 - Everything converges into `narrative-builder` → `decision-memo`, pre-wired by `stakeholder-alignment`.
 
 **Carry the numbers forward, not just the conclusions.** If `market-mapping` said "$30M SOM, swinging
