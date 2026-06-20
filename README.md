@@ -12,7 +12,7 @@
 > **Slideware is the thinking layer for executive strategy, finance, and AI work — it gets the
 > content and the reasoning right. It is not a slide generator (yet).**
 > A comprehensive pack of **42 standalone Claude skills** plus two guides that encode the methods,
-> frameworks, and quantitative rigor of top-tier strategy firms (McKinsey, BCG, Bain) and corporate
+> frameworks, and quantitative rigor of top-tier strategy firms and corporate
 > strategy / PE / IB / AI-transformation teams.
 
 ## What Slideware is (and isn't)
