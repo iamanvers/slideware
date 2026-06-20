@@ -1,6 +1,6 @@
 # The Engagement Workflow
 
-This guide is the connective tissue of the pack. The 32 skills are individually useful, but
+This guide is the connective tissue of the pack. The 42 skills are individually useful, but
 real consulting value comes from **chaining them into an engagement** and holding every output
 to a standard that separates genuine executive work product from confident-sounding filler.
 
