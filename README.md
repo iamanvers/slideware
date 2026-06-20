@@ -149,11 +149,11 @@ See **[WORKFLOW.md](WORKFLOW.md)** for the full engagement playbook and skill ch
 
 Keep the whole set for a full strategy + finance + AI toolkit, or pull out just the category folders you need.
 
-## Design principles (what makes the output MBB-grade)
+## Design principles
 - **Answer-first.** Lead with the recommendation; the build supports it.
 - **MECE & hypothesis-driven.** Structure before analysis; test beliefs, don't gather data aimlessly.
 - **Exposed logic.** Driver-based models and sourced claims a reviewer can challenge — never a black box.
 - **The math ties out.** Bridges reconcile, models balance, formulas are stated and correct.
 - **Honest ranges over false precision.** "$440–510M, swinging on WACC," not "$847M."
 - **So-what on everything.** Every exhibit and finding states the decision it informs.
-- **Earn every page.** No filler, no hedging, no generic management-speak — see the quality standard in [WORKFLOW.md](WORKFLOW.md#part-4--the-quality-standard).
+- **Earn every page.** No filler, no hedging, no generic management-speak(faff), see the quality standard in [WORKFLOW.md](WORKFLOW.md#part-4--the-quality-standard).
