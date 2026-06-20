@@ -1,0 +1,9 @@
+# Local Claude Code session state — not project content
+.remember/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
