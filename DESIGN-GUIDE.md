@@ -1,4 +1,4 @@
-# The Design Reference Guide — Representing Information for Executive Decisions
+# The Design Reference Guide
 
 Analysis is only half the job. The other half is **representation**: choosing the form that makes
 the insight land with a specific audience in the time you have. This guide is the reference for
